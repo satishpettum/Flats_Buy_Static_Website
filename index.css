@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    font-family: Bree Serif;
+}
+
+
+
+
+.sunrise-avenue-home-page-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.home-page-card-container h1 {
+    font-size: 25px;
+    color: #f19116;
+
+}
+
+.home-page-card-container p {
+    color: #7b8794;
+    font-size: 13px;
+}
+
+
+.sunrise-avenue-types-of-flats-container {
+    background-color: #222222;
+    padding: 24px 15px;
+
+
+}
+
+.sunrise-avenue-main-heading {
+    color: #f19116;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.each-flat-box {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+
+
+
+}
+
+.each-flat-box img {
+    height: 150px;
+}
+
+.each-flat-box-content {
+    margin-left: 10px;
+    text-align: left;
+}
+
+.each-flat-box-content h1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0f0e46;
+}
+
+.each-flat-box-content p {
+    font-size: 15px;
+    color: #7b8794;
+
+}
+
+.btn {
+    background-color: #f19116;
+    color: white;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+
+/*  detailed page css*/
+
+
+.flats-detailed-view-container {
+    background-color: #222222;
+}
+
+.flats-detailed-view-container .main-img {
+    width: 100vw;
+}
+
+.address-of-flat {
+    padding: 5px;
+}
+
+.address-of-flat img {
+    height: 25px;
+    padding-right: 5px;
+}
+
+.address-of-flat p {
+    font-size: 13px;
+
+}
+
+.detailed-view-content {
+    padding: 20px;
+}
+
+.detailed-view-content h1 {
+    color: #f19116;
+    font-size: 25px;
+}
+
+.detailed-view-content p {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.buttons-container button {
+    margin: 8px;
+}
